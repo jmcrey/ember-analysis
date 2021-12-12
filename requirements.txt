@@ -1,0 +1,6 @@
+git+https://github.com/elastic/ember.git
+matplotlib
+seaborn
+pyarrow
+scikeras
+statsmodels
